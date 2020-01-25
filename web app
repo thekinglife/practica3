@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Practica3 </title>
+</head>
+<body>
+    <body style="background-color:rgb(5, 31, 145);">
+
+  <center>   <h1 style="font-size:400%;"> UNACH </h1> <hr> </hr> </center>
+    <ul>
+            <li style="color:white;"> FCA - CAMPUS I </li>
+            <li style="color:white;"> LSC </li>
+            <li style="color:white;"> LIDTS </li>
+            <li style="color:white;"> LCP </li>
+            <li style="color:white;"> LAE </li>
+            <li style="color:white;"> LGT </li>
+            <br> </br>
+   </ul>
+    <ol start="1">            
+           <i> 
+            <li style="color:white;"> LSC </li>
+            <li style="color:white;"> LIDTS </li>
+            <li style="color:white;"> LCP </li>
+            <li style="color:white;"> LAE </li>
+            <li style="color:white;"> LGT </li>
+           </i>
+    </ol>
+
+    <p style="color:white;"> LCS </p> 
+    <ul> 
+        <P style="color:springgreen;"> LICENCIATURA EN SISTEMAS COMPUTACIONALES </P>
+    </ul>
+    <p style="color:white;"> LIDTS </p> 
+    <ul>
+       <P style="color:springgreen;"> LICENCIATURA EN INGENIERIA Y DESARROLLOY TECNOLOGIA DE SOFTWARES </P>
+    </ul>
+    <p style="color:white;"> LCP </p> 
+    <ul>
+       <P style="color:springgreen;"> LICENCIATURA EN CONTADURIA </P>
+    </ul>
+    <p style="color:white;"> LAE </p> 
+    <ul>
+       <P style="color:springgreen;"> LICENCIATURA EN ADMINISTRACION DE EMPRESAS </P>
+    </ul>
+    <p style="color:white;"> LGT </p> 
+    <ul>
+       <P style="color:springgreen;"> LICENCIATURA EN GESTION TURISTICA </P>
+    </ul>
+
+</body>
+</html>
